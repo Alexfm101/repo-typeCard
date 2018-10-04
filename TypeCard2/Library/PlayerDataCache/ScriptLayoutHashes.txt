@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/alexis/Documents/juegos unity/TypeCard2/android/test1.apk
+C:/Users/alexis/Documents/juegos unity/repo-typeCard/TypeCard2/android/test1.apk
 SceneListBegin?
 Assets/scenes/inicio.unity
 Assets/scenes/test1.unity
@@ -189,6 +189,7 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 48aeaeba3825bb77275a030963f34e50 Assembly-CSharp.dll:.TypeWriterEffect
 c155a394adca7150e655710872cdbd4f Assembly-CSharp.dll:.route
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.link
+e1ff970319fa33ba4daa3ef83c5282a8 Assembly-CSharp.dll:.levelChange
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -291,4 +292,3 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
-e1ff970319fa33ba4daa3ef83c5282a8 Assembly-CSharp.dll:.levelChange
