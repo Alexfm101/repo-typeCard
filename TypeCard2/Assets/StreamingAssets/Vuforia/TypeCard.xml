@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="typecard2" size="0.100000 0.059840" />
-    <ImageTarget name="typecard1" size="0.100000 0.059780" />
+    <ImageTarget name="typefinalcard2" size="0.850000 0.510000" />
+    <ImageTarget name="typefinalcard1" size="0.850000 0.510000" />
   </Tracking>
 </QCARConfig>

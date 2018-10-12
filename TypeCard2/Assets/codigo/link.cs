@@ -19,12 +19,12 @@ void Start () {
 
 	 public void email()
     {
-        Application.OpenURL("https://www.google.com.mx/?hl=es-419");
+        Application.OpenURL("https://www.google.com/gmail/");
     }
 
 	 public void linked()
     {
-        Application.OpenURL("https://www.linkedin.com/in/alexis-fraudita-macia-169b0515a/");
+        Application.OpenURL("https://www.linkedin.com/in/guetteluis/");
     }
 
     // Update is called once per frame

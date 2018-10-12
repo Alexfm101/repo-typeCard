@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/alexis/Documents/juegos unity/repo-typeCard/TypeCard2/android/test1.apk
+C:/Users/alexis/Documents/juegos unity/repo-typeCard/TypeCard2/android/TypeCard1.apk
 SceneListBegin?
 Assets/scenes/inicio.unity
 Assets/scenes/test1.unity
